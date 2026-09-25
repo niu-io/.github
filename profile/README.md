@@ -10,6 +10,7 @@
 <p align="center"><strong>An open-source AI gateway focused on performance and cost, with security as its foundation.</strong></p>
 
 <p align="center">
+  <a href="https://niu-io.github.io/website/">Website</a> ·
   <a href="https://github.com/niu-io/niu">Explore Niu</a> ·
   <a href="https://github.com/niu-io/niu/tree/main/docs/architecture">Architecture</a> ·
   <a href="https://github.com/niu-io/niu/issues">Issues & ideas</a>
