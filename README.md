@@ -1,9 +1,9 @@
-# NIU.IO organization profile
+# niu.io organization profile
 
 This repository hosts the public GitHub organization profile for [niu-io](https://github.com/niu-io).
 
 - `profile/README.md` contains the organization landing page.
-- `assets/` contains the approved NIU.IO logos and their retained source license.
+- `assets/` contains the approved niu.io logos and their retained source license.
 
 Product implementation and design documentation live in [niu-io/niu](https://github.com/niu-io/niu).
 

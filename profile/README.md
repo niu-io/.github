@@ -2,7 +2,7 @@
   <a href="https://github.com/niu-io/niu">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niu-io/.github/main/assets/niu-logo-dark.png">
-      <img src="https://raw.githubusercontent.com/niu-io/.github/main/assets/niu-logo.jpg" alt="NIU.IO — Niu" width="420">
+      <img src="https://raw.githubusercontent.com/niu-io/.github/main/assets/niu-logo.jpg" alt="niu.io — Niu" width="420">
     </picture>
   </a>
 </p>
